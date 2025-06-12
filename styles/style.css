@@ -1,5 +1,6 @@
 .page {
-  font-family: var(--main-font-family), 'IBM Plex Mono', 'Bold regular', sans-serif;
+  font-family: var(--main-font-family), "IBM Plex Mono", "Bold regular",
+    sans-serif;
   background-color: var(--background-color);
   background-image: var(--header-bg-image);
   background-repeat: no-repeat;
@@ -119,7 +120,8 @@
 }
 
 .header__title {
-  font-family: var(--main-font-family), 'IBM Plex Mono', 'Bold regular', sans-serif;
+  font-family: var(--main-font-family), "IBM Plex Mono", "Bold regular",
+    sans-serif;
   font-weight: 700;
   font-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
   line-height: 83%;
@@ -152,7 +154,8 @@
 }
 
 .section__subtitle {
-  font-family: var(--main-font-family), 'IBM Plex Mono', 'Bold regular', sans-serif;
+  font-family: var(--main-font-family), "IBM Plex Mono", "Bold regular",
+    sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 23.4px;
@@ -160,7 +163,8 @@
 }
 
 .section__paragraph {
-  font-family: var(--main-font-family), 'IBM Plex Mono', 'Bold regular', sans-serif;
+  font-family: var(--main-font-family), "IBM Plex Mono", "Bold regular",
+    sans-serif;
   font-weight: 400;
   font-size: 18px;
   line-height: 23.4px;
@@ -226,7 +230,8 @@
 }
 
 .footer__title {
-  font-family: var(--main-font-family), 'IBM Plex Mono', 'Bold regular', sans-serif;
+  font-family: var(--main-font-family), "IBM Plex Mono", "Bold regular",
+    sans-serif;
   font-weight: 700;
   font-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
   line-height: 82.5%;
@@ -391,7 +396,7 @@
 
   .footer__title {
     font-size: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
-    max-width: 100%;    
+    max-width: 100%;
   }
 
   .footer {
