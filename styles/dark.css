@@ -5,13 +5,11 @@
 */
 
 :root.theme-dark {
-  --main-font-family: "IBM Plex Mono", "Bold regular", sans-serif;
   --accent-color: #ff0070;
   --accent-color-text: #ff0070;
   --main-color: #000028;
   --text-color: #f1b2ce;
   --header-bg-image: url(../images/cover-image-dark.png);
-  --paragraph-font-size: 18px;
   --title-color: #db00ff;
   --outline-button-color: rgba(255, 0, 112, 0.4);
   --background-color: #000028;

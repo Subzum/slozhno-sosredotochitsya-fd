@@ -10,7 +10,6 @@
     --main-color: #353430;
     --text-color: #353430;
     --header-bg-image: url(../images/cover-image-light.png);
-    --paragraph-font-size: 18px;
     --title-color: #FFC2E6;
     --outline-button-color: r gba(50, 49, 45, 0.4);
     --background-color: #fff1f7;
@@ -24,10 +23,10 @@
 @media (prefers-color-scheme: light) {
   :root {
     --accent-color: #ff8dcb;
+    --accent-color-text: #353430;
     --main-color: #353430;
     --text-color: #353430;
     --header-bg-image: url(../images/cover-image-light.png);
-    --paragraph-font-size: 18px;
     --title-color: #FFC2E6;
     --outline-button-color: rgba(50, 49, 45, 0.4);
     --background-color: #fff1f7;
