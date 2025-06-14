@@ -92,11 +92,11 @@
   background-color: transparent;
   color: var(--accent-color-text);
   font-weight: 400;
-  font-size: var(--paragraph-font-size);
+  font-size: 18px;
   line-height: 26px;
   text-align: center;
   text-transform: lowercase;
-  outline: none;
+  border: none;
   padding: 0px 13px;
 }
 
