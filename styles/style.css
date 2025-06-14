@@ -92,15 +92,16 @@
   background-color: transparent;
   color: var(--accent-color-text);
   font-weight: 400;
-  font-size: 18px;
+  font-size: var(--paragraph-font-size);
   line-height: 26px;
   text-align: center;
   text-transform: lowercase;
-  border: none;
+  outline: none;
   padding: 0px 13px;
 }
 
-.header__theme-menu-button:active {
+.header__theme-menu-button_active {
+  pointer-events: none;
   outline: 1px solid var(--accent-color-text);
 }
 
